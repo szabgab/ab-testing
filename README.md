@@ -2,7 +2,19 @@ Notes for AB Testing - Alan Page and Brent Jensen
 ==================================================
 * [Home of the podcast](http://www.angryweasel.com/ABTesting/)
 * [Slack channel](https://oneofthethree.slack.com/)
+* [Alan Page](http://www.angryweasel.com/)
+* [Brent Jense](https://testastic.wordpress.com/)
 
+
+### [Episode 49](http://www.angryweasel.com/ABTesting/?p=165)
+* [TestBash Philadelphia 2016](http://www.ministryoftesting.com/training-events/testbash-philadelphia-2016/)
+* Scavenger hunt
+* Tester eye
+* Testing without testers
+
+
+
+### [Episode 48](http://www.angryweasel.com/ABTesting/?p=155)
 
 ### [Episode 47](http://www.angryweasel.com/ABTesting/?p=152)
 
