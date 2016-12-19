@@ -5,7 +5,12 @@ Notes for AB Testing - Alan Page and Brent Jensen
 * [Alan Page](http://www.angryweasel.com/)
 * [Brent Jense](https://testastic.wordpress.com/)
 
-### Epiposde 50
+### [Epiposde 50](http://www.angryweasel.com/ABTesting/?p=169)
+
+* WTF - What The ???
+* [TLA = Three-letter acronym](https://en.wikipedia.org/wiki/Three-letter_acronym)
+* [Site Reliable Engineer - How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
 ### [Episode 49](http://www.angryweasel.com/ABTesting/?p=165)
 
@@ -52,7 +57,7 @@ Notes for AB Testing - Alan Page and Brent Jensen
 * UI tests  Selenium
 * flaky tests
 * behavioral and functional correctness
-* [SRE = Site reliability Engineer](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+* [SRE = Site Reliability Engineer](https://en.wikipedia.org/wiki/Site_reliability_engineering)
 * TSG Trouble Shooting Guide
 * [BHAGs = Big Hairy Audacious Goal](https://en.wikipedia.org/wiki/Big_Hairy_Audacious_Goal)
 * Release branch
