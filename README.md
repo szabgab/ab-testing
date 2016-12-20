@@ -55,6 +55,20 @@ Notes for AB Testing - Alan Page and Brent Jensen
 
 
 ### [Episode 48](http://www.angryweasel.com/ABTesting/?p=155)
+* [Michael Richards](https://twitter.com/saltygunner) - Director of Quality Assurance
+* [Vernon Richards](https://twitter.com/testerfromleic) - Independent Test engineer from UK
+* [Perze Ababa](https://twitter.com/perze) -
+* [TestBash Philadelphia 2016](http://www.ministryoftesting.com/training-events/testbash-philadelphia-2016/)
+* [Star Conferences](https://www.techwell.com/software-conferences/star-software-testing-conferences)
+* [Elizabeth Zagroba](http://elizabethzagroba.com/)
+* [Suzan Cain TED Talk the power of introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
+* [power distance index](https://en.wikipedia.org/wiki/Hofstede's_cultural_dimensions_theory)
+* [Emotional Quotient](https://en.wikipedia.org/wiki/Emotional_intelligence)
+* [Scavenger hunt](https://en.wikipedia.org/wiki/Scavenger_hunt) (explore Philadelphia)
+* [Liberty bell](https://en.wikipedia.org/wiki/Liberty_Bell)
+* Context Driven Testing
+* Christina ??
+
 
 ### [Episode 47](http://www.angryweasel.com/ABTesting/?p=152)
 
