@@ -11,6 +11,26 @@ Notes for AB Testing - Alan Page and Brent Jensen
 * [TLA = Three-letter acronym](https://en.wikipedia.org/wiki/Three-letter_acronym)
 * [Site Reliable Engineer - How Google Runs Production Systems](http://shop.oreilly.com/product/0636920041528.do)
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
+* Why are the PMs all hot and bothers about shipping the experience?
+* Quadrant of Visible/Invisible and Features/Bugs
+* BDuF = Big Design Up Front
+* [Eric Ries' book: The Lean Startup](http://theleanstartup.com/)
+* MVP = Minimal Viable Product  vs  self satisfaction
+* Data afformation phase (??) Steve Row (??)  - Confirmation bias
+* Pop and Dyke principle (???)
+* Deferring Commitment - defer decision to the last possible moment
+* Customer Validation
+* Backlog grooming
+* [WSJF = Weighted Shortest Job First](https://en.wikipedia.org/wiki/Shortest_job_next#Weighted_shortest_job_first)  [WSJF](http://www.scaledagileframework.com/wsjf/)
+* Business ROI (Return on Investment)
+* Intuition based vs data driven decision making
+* KPI = Key Performance Indicator
+* [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
+* CSM Certified Scrum Master
+* disaggregation
+* ET = Exploratory Testing
+* [The Art of Agile Development](http://www.jamesshore.com/Agile-Book/)
+
 
 ### [Episode 49](http://www.angryweasel.com/ABTesting/?p=165)
 
@@ -75,6 +95,18 @@ Notes for AB Testing - Alan Page and Brent Jensen
 * [WSJF = Weighted Shortest Job First](https://en.wikipedia.org/wiki/Shortest_job_next#Weighted_shortest_job_first)  [WSJF](http://www.scaledagileframework.com/wsjf/)
 * Iterate - learn - repeat
 * Unified engineering model
+
+### [Episode 46](http://www.angryweasel.com/ABTesting/?p=149)
+
+### [Episode 45](http://www.angryweasel.com/ABTesting/?p=146)
+
+### [Episode 44](http://www.angryweasel.com/ABTesting/?p=142)
+
+### [Episode 43](http://www.angryweasel.com/ABTesting/?p=136)
+
+### [Episode 42](http://www.angryweasel.com/ABTesting/?p=133)
+
+### [Episode 41](http://www.angryweasel.com/ABTesting/?p=130)
 
 Generic Notes
 --------------
